@@ -1,0 +1,75 @@
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\Matching GameII.dll
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\Matching GameII.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\Matching GameII.nuget.stamp
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\Matching GameII.csprojAssemblyReference.cache
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\libraryimports.cache.stamp
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res.flag
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\Matching GameII.csproj.CoreCompileInputs.cache
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\Matching GameII.dll
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\Matching GameII.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\values\colors.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\values\strings.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\values\styles.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\main_small.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\main_normal.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\main_large.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\main_xlarge.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\R.cs.flag
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\R.txt
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\uploadflags.txt
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\Mono.Android.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\mscorlib.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\System.Core.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\System.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\System.Xml.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\System.Net.Http.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\System.Runtime.Serialization.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\Mono.Security.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\Matching GameII.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\mscorlib.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\System.Core.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\System.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\System.Xml.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\android\assets\Matching GameII.pdb
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\Matching_Game.Matching_Game.apk
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\bin\Debug\Matching_Game.Matching_Game-Signed.apk
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\android\bin\Matching_Game.Matching_Game.apk
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\drawable\back.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\drawable\button.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\drawable\home.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\drawable\home1.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\drawable\home2.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\drawable\time.png
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\play_small.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\play_normal.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\play_large.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\play_xlarge.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\end_small.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\end_normal.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\end_large.xml
+D:\Learning\Android Moblie\Matching GameII\Matching GameII\obj\Debug\81\res\layout\end_xlarge.xml
